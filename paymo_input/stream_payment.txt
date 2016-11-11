@@ -1,1 +1,9 @@
-DOWNLOAD FILE AT [https://www.dropbox.com/s/vrn4pjlypwa2ki9/stream_payment.csv?dl=0]
+time, id1, id2, amount, message
+2016-11-02 09:49:29, 0008, 1120, 25.32, no connxn
+2016-11-02 09:49:29, 10, 20, 25.32, 1st degree friend
+2016-11-02 09:49:29, 10, 30, 19.45, 2nd degree friend
+2016-11-02 09:49:29, 10, 40, 14.99, no degree friend
+2016-11-02 09:49:29, 10, 90, 14.99, 4th degree friend
+2016-11-02 09:49:29, 10, 70, 13.48, 3rd degree friend
+2016-11-02 09:49:29, 10, 100, 19.01, 5th degree
+2016-11-02 09:49:29, 10, 60, 4.85, n odegree
